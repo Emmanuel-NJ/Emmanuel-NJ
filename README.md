@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./img.png" width="100%" alt="Emmanuel Njobvu Banner"/>
+</p>
 <h1 align="center">Hi 👋, I'm Emmanuel Njobvu</h1>
 <h3 align="center">Cybersecurity Enthusiast | ICT Student | Developer | AI Systems Builder</h3>
 
