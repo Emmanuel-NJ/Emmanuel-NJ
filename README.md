@@ -2,7 +2,6 @@
   <img src="./img.png" width="100%" alt="Emmanuel Njobvu Banner"/>
 </p>
 <h1 align="center">Hi 👋, I'm Emmanuel Njobvu</h1>
-<h3 align="center">Cybersecurity Enthusiast | ICT Student | Developer | AI Systems Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Researcher;Full+Stack+Developer;AI+Powered+Systems+Builder;Innovating+for+Africa;Vice+Secretary+@+ICTAZ;RootLab+Ignite+Programme+Participant&center=true&width=900&height=45&color=58A6FF&vCenter=true&pause=1000&size=24" />
