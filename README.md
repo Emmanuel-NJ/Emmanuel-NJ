@@ -10,29 +10,6 @@
 
 ---
 
-# 🚀 About Me
-
-- 💻 ICT student passionate about secure and scalable software systems
-- 🛡 Focused on Cybersecurity, AI-powered systems, and Full Stack Development
-- 🌍 Building technology solutions designed for African communities
-- 🚀 Currently developing intelligent platforms including scam detection systems, smart community platforms, and digital innovation tools
-- 🏛 Vice Secretary — ICTAZ Student Chapter
-- 🛡 Former Cybersecurity Leader — ICTAZ
-- 🔥 RootLab Ignite Programme Participant
-
----
-
-# 🧠 Current Focus
-
-- AI-powered Scam Detection Systems
-- Flutter & Firebase Application Development
-- Secure Authentication & Verification Systems
-- Cybersecurity Research & Threat Analysis
-- Intelligent African Digital Infrastructure
-- Scalable Backend System Design
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
@@ -71,29 +48,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel-NJ&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-# 🔬 Featured Interests
-
-- 🧠 Artificial Intelligence
-- 🛡 Cybersecurity & Ethical Hacking
-- 🌐 Full Stack Web Systems
-- 📱 Mobile Application Development
-- ☁ Cloud & Firebase Ecosystems
-- 🔐 Secure Digital Infrastructure
-- 🚜 Smart Agriculture Technology
-- 🌍 African Innovation Systems
-
----
-
-# 🏆 Leadership & Recognition
-
-- 🏛 Vice Secretary — ICTAZ Student Chapter
-- 🛡 Former Cybersecurity Leader — ICTAZ
-- 🚀 RootLab Ignite Programme Participant
-- 💻 Builder of AI-powered and security-focused systems
-- 🌍 Advocate for African-centered technological innovation
 
 ---
 
