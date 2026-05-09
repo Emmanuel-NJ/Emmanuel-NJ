@@ -50,11 +50,10 @@
 </p>
 
 ---
-
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-NJ&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-statistics-nj.vercel.app/api?username=Emmanuel-NJ&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 <p align="center">
@@ -62,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-NJ&layout=compact&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-statistics-nj.vercel.app/api/top-langs/?username=Emmanuel-NJ&layout=compact&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 ---
