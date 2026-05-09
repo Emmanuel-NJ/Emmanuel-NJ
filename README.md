@@ -1,11 +1,35 @@
 <p align="center">
   <img src="./img.png" width="100%" alt="Emmanuel Njobvu Banner"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Emmanuel Njobvu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Researcher;Full+Stack+Developer;AI+Powered+Systems+Builder;Innovating+for+Africa;Vice+Secretary+@+ICTAZ;RootLab+Ignite+Programme+Participant&center=true&width=900&height=45&color=58A6FF&vCenter=true&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Researcher;Full+Stack+Developer;AI+Systems+Builder;Flutter+%26+Firebase+Developer;Innovating+Secure+African+Technology;Vice+Secretary+@+ICTAZ;RootLab+Ignite+Programme+Participant&center=true&width=900&height=45&color=58A6FF&vCenter=true&pause=1000&size=24" />
 </p>
+
+---
+
+# 🚀 About Me
+
+- 💻 ICT student passionate about secure and scalable software systems
+- 🛡 Focused on Cybersecurity, AI-powered systems, and Full Stack Development
+- 🌍 Building technology solutions designed for African communities
+- 🚀 Currently developing intelligent platforms including scam detection systems, smart community platforms, and digital innovation tools
+- 🏛 Vice Secretary — ICTAZ Student Chapter
+- 🛡 Former Cybersecurity Leader — ICTAZ
+- 🔥 RootLab Ignite Programme Participant
+
+---
+
+# 🧠 Current Focus
+
+- AI-powered Scam Detection Systems
+- Flutter & Firebase Application Development
+- Secure Authentication & Verification Systems
+- Cybersecurity Research & Threat Analysis
+- Intelligent African Digital Infrastructure
+- Scalable Backend System Design
 
 ---
 
@@ -27,27 +51,40 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-NJ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-NJ&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Emmanuel-NJ&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://streak-stats.demolab.com/?user=Emmanuel-NJ&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-NJ&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-NJ&layout=compact&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel-NJ&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+# 🔬 Featured Interests
+
+- 🧠 Artificial Intelligence
+- 🛡 Cybersecurity & Ethical Hacking
+- 🌐 Full Stack Web Systems
+- 📱 Mobile Application Development
+- ☁ Cloud & Firebase Ecosystems
+- 🔐 Secure Digital Infrastructure
+- 🚜 Smart Agriculture Technology
+- 🌍 African Innovation Systems
 
 ---
 
@@ -57,13 +94,13 @@
 - 🛡 Former Cybersecurity Leader — ICTAZ
 - 🚀 RootLab Ignite Programme Participant
 - 💻 Builder of AI-powered and security-focused systems
-- 🌍 Passionate about African innovation ecosystems
+- 🌍 Advocate for African-centered technological innovation
 
 ---
 
 # 🎯 Vision
 
-> To build intelligent, secure, and scalable African technology systems that solve practical community problems and create lasting impact.
+> To engineer secure, intelligent, and scalable African technology systems that solve real-world problems and create sustainable impact.
 
 ---
 
@@ -75,11 +112,21 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="www.linkedin.com/in/emmanuel-w-njobvu">
+<a href="https://www.linkedin.com/in/emmanuel-w-njobvu">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
+
+---
+
+# ⚡ Development Philosophy
+
+```text
+Build systems that are secure.
+Build systems that scale.
+Build systems that solve real problems.
+```
 
 ---
 
@@ -88,5 +135,5 @@
 </p>
 
 <p align="center">
-  ⚡ "Building technology that matters."
+  ⚡ Building technology that matters.
 </p>
